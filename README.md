@@ -1,5 +1,5 @@
 <h1>Novoto (Clone)</h1>
-<p>De acordo com os requisitos para o trabalho individual da diciplina de React Native, o app da "Novoto" foi o escolhido para ser replicado.</p>
+<p>Para cumprir com os requisitos para o trabalho individual da diciplina de React Native, esolhi o app da "Novoto" para ser replicado.</p>
 <p>O Novoto-Clone tem 2 telas, Login e Home, com Card de produtos e a Bottom Tab de navegação como componentes.</p>
 <p>No app.tsx foi necessário usar a função de splash screen para que a fontFamily usada na Novoto tivesse tempo de ser totalmene carregada.</p>
 <br>
