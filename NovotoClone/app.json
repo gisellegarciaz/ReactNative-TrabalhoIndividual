@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "NovotoClone",
+    "slug": "NovotoClone",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/novoto-icon.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/novoto-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/novoto-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "edgeToEdgeEnabled": true,
+      "predictiveBackGestureEnabled": false
+    },
+    "web": {
+      "favicon": "./assets/novoto-icon.png"
+    },
+    "plugins": [
+      "expo-font"
+    ]
+  }
+}
