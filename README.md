@@ -24,4 +24,44 @@ Colocar no git, junto com o seu código colocar a imagem que foi usada para clon
 
 
 <h2>Telas do app de clone:</h2><br>
-<img width="1811" height="1054" alt="clonenovoto-app" src="https://github.com/user-attachments/assets/29f3276c-b207-4acb-8549-389ebf5f5851" />
+
+https://github.com/user-attachments/assets/2e9dbc5d-5d4c-448c-a9f9-492a21632dbd
+
+<h1>Estrutura das pastas:</h1>
+
+```
+NovotoClone/
+├── .expo/
+├── assets/
+├── node_modules/
+├── src/
+│   ├── @types/
+│   │   ├── image.d.ts
+│   │   └── navigation.d.ts
+│   ├── assets/
+│   │   ├── AppNovotoPrints/
+│   │   ├── CloneNovotoBackground.png
+│   │   ├── ImagemPerfilDefault.png
+│   │   ├── Novoto_Logo_Dark-BG_Header.png
+│   │   └── NovotoLogoDarkBGHeader.avif
+│   ├── components/
+│   │   ├── CardListaNotasFiscais/
+│   │   └── CustomTabBar.tsx
+│   ├── pages/
+│   │   ├── Home/
+│   │   └── Login/
+│   ├── routers/
+│   │   ├── index.tsx
+│   │   ├── stackRouters.tsx
+│   │   └── tabRouters.tsx
+│   ├── types/
+│   │   └── TiposGerais.ts
+│   └── index.ts
+├── .gitignore
+├── app.json
+├── App.tsx
+├── index.ts
+├── package-lock.json
+├── package.json
+├── tsconfig.json
+└── README.md
