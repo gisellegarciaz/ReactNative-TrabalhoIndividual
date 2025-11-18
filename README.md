@@ -1,5 +1,5 @@
 <h1>App Novoto (Clone)</h1>
-<h4>Aluna: Giselle Garcia - React Native - Prof: Felipe - TIC/ Software Serratec 2025.2</h4>
+<h4>Dev: Giselle Garcia - React Native - Prof: Felipe - TIC/ Software Serratec 2025.2</h4>
 
 <p>Para cumprir com os requisitos para o trabalho individual da diciplina de React Native, escolhi o app da "Novoto" para ser replicado.</p><br>
 
